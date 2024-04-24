@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ic_bf1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-16.000000, -334.000000)" fill-rule="nonzero">
+            <g id="ic_bf1" transform="translate(16.000000, 334.000000)">
+                <path d="M18,-7.99360578e-15 C8.05760147,-7.99360578e-15 1.7985613e-14,8.05760147 1.7985613e-14,18 C1.7985613e-14,27.9423955 8.05760147,36 18,36 C27.9423955,36 36,27.9423955 36,18 C36.0040158,8.05760147 27.9423955,-7.99360578e-15 18,-7.99360578e-15 Z" id="a" fill="#02BE02"></path>
+                <path d="M24.5804683,19.0109202 L15.5185698,24.5913331 C14.7881027,25.0420226 13.8757523,24.4786607 13.8757523,23.5804114 L13.8757523,12.4195856 C13.8757523,11.5213363 14.7881027,10.9579744 15.5185698,11.4086639 L24.5775347,16.9890768 C25.3080018,17.4366366 25.3080018,18.5633604 24.5804683,19.0109202 Z" id="a" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

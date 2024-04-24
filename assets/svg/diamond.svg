@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="15px" viewBox="0 0 20 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ic_zuanshi</title>
+    <desc>Created with Sketch.</desc>
+    <g id="控件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="钻石">
+            <g id="编组">
+                <g id="钻石">
+                    <polygon id="三角形" fill="#FCC82B" transform="translate(10.000000, 10.000000) scale(1, -1) translate(-10.000000, -10.000000) " points="10 5 20 15 0 15"></polygon>
+                    <polygon id="三角形备份" fill="#FFE189" transform="translate(9.998547, 10.000000) scale(1, -1) translate(-9.998547, -10.000000) " points="9.99854668 5 14.8850373 15 5.11205602 15"></polygon>
+                    <polygon id="矩形" fill="#FCE063" points="5.11415525 0 14.8858447 0 20 5 0 5"></polygon>
+                    <rect id="矩形" fill="#FFE68A" x="5.11205602" y="0" width="9.77298132" height="5"></rect>
+                    <polygon id="三角形备份-2" fill="#FFFFFF" opacity="0.400000006" transform="translate(10.002870, 2.500000) scale(1, -1) translate(-10.002870, -2.500000) " points="10.0028702 0 14.8850373 5 5.12070297 5"></polygon>
+                    <polygon id="三角形备份-3" fill="#FFFFFF" opacity="0.400000006" points="10.0028702 0 14.8850373 5 5.12070297 5"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
